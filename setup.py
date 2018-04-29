@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name = 'selfticspypack',
-    selfticspypacks = ['selfticspypack'],
+    packages = ['selfticspypack'],
     version = '0.1',
     description = 'A random test lib',
     author = 'Abdur Razzak',
