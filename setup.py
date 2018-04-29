@@ -1,8 +1,8 @@
 from distutils.core import setup
 
 setup(
-    name = 'selftics-py-pack',
-    selftics_py_packs = ['selftics-py-pack'],
+    name = 'selftics_py_pack',
+    selftics_py_packs = ['selftics_py_pack'],
     version = '0.1',
     description = 'A random test lib',
     author = 'Abdur Razzak',
